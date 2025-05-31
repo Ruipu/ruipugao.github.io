@@ -1,10 +1,12 @@
 ---
-layout: homepage
+layout: home
+title: "Ruipu Gao"
+permalink: /
 ---
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at Tulane University, researching education and labor economics.
 
 ## Research Interests
 
@@ -12,3 +14,5 @@ I am a Ph.D. student at ...
 - **Labor Economics**
 
 ## Conferences
+
+More coming soon.
